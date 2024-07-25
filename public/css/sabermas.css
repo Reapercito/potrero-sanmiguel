@@ -1,0 +1,80 @@
+/*
+selector{
+    prpieded: valor;
+}
+*/
+
+/*estilo del body */
+body{
+    background-image: url(../imagenes/imagen\ para\ fonde\ de\ pagina\ web.jpg);
+}
+
+/* estilos de los parrafos*/
+p{
+    font-size: 25px;
+    margin: 50px;
+    padding: 40px;
+}
+
+/* estilos de img*/
+.bra{
+   padding: 15px;
+    width: 450px;
+    height: 400px;
+}
+
+
+.all{
+    padding: 15px;
+    width: 800px;
+    height: 600px;
+
+}
+
+.trike{
+  padding: 15px;
+  width: 550px;
+  height: 400px;
+
+}
+
+.trex{
+    padding: 15px;
+    width: 650px;
+    height: 400px;
+  
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
